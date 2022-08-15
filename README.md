@@ -2,8 +2,7 @@
 # Usage:
 ## Method 1 Run exe file:
 * Download exe file, in one of three different languages
-* Note: this requires you to turn off your antivirus software
-* If you feel unsafe, try method 2
+* Enjoy!
 
 ## Method 2 Run python file
 ### Requirements:
