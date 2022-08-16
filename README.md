@@ -14,11 +14,9 @@
 
 * ```git clone https://github.com/KucziSa/SafeMessage```
 * ```cd SafeMessage```
-
+* ```python3 SafeMessage.py```
 * Choose your language: 
-* ```python3 de-de.exe```
-* ```python3 en-en.exe```
-* ```python3 pl-pl.exe```
+
 * Enjoy!
 
 <a href="https://kuczis.mysocials.pl">©Kuczi$</a>
