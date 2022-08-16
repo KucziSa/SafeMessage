@@ -336,6 +336,8 @@ def language():
    except:
       print('\n')
       print('Please type a number.')
+      sleep(2)
+      language()
    if opt == 1:
       optionssde()
    elif opt == 3:
